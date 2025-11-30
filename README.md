@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Mohamed Yacine Elfadili, a 3rd-year Computer Science student <br>at Polydisciplinaire Faculty of Taroudant. I'm curious about <br>backend development, APIs, and databases, while maintaining <br>strong frontend and design skills. Currently working on a <br>Chicken Farm Management System for university and planning <br>a cross-platform share app. I have experience with HTML, CSS, <br>JavaScript, Python (Flask), Java (JavaFX), C, and C++. <br>I'm exploring Docker, n8n automation, and advanced WordPress development. <br>Open to internship opportunities!
+I'm Mohamed Yacine Elfadili, a 3rd-year Computer Science student <br>at Polydisciplinaire Faculty of Taroudant. I'm curious about <br>backend development, APIs, and databases, while maintaining <br>strong frontend and design skills. Currently working on a <br>Chicken Farm Management System for university and planning <br>a cross-platform share app. I have experience with HTML, CSS, <br>JavaScript, Python (Flask), Java (JavaFX), C, and C++. <br>Skilled in web scraping and automation. <br>I'm exploring Docker, n8n automation, and advanced WordPress development. <br>Open to internship opportunities!
+
+🎯 **Currently Learning:** Docker | n8n Automation | Advanced WordPress | Full-stack Desktop Apps | Mobile Development
+
+📫 **Reach Me:** elfadilidevmohamed@gmail.com
 
 
 ## 🌐 Socials:
