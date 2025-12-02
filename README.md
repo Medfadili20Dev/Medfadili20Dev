@@ -29,5 +29,3 @@ I'm Mohamed Yacine Elfadili, a 3rd-year Computer Science student <br>at Polydisc
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Med20fadili) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
